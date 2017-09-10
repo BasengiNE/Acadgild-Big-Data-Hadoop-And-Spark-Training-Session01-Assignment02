@@ -1,9 +1,9 @@
-## Session 1: Assignment 2
+## Session 01: Assignment 02
 
 No. | Command | Description
 --|--|--
-1| pwd |
-2| vi |
+1| pwd | Print the name of the current working directory.
+2| vi | 
 3| touch |
 4| mkdir |
 5| rm |
